@@ -1,0 +1,43 @@
+h2 {
+	clear: both;
+	display: block;
+	float: left;
+	padding-left: $main-padding;
+	width: 100px;
+}
+
+h3 {
+	display: inline-block;
+}
+
+#page-wrap {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+#pic {
+	float: right;
+}
+
+#intro {
+	width: 500px;
+}
+
+.description-list {
+	clear: both;
+	padding-top: 10px;
+}
+
+.description {
+	float: left;
+	margin-left: 10px;
+	margin-top: 30px;
+	padding-left: 10px;
+
+}
+
+.extra-text {
+	display: inline-block;
+	float: right;
+	padding-top: 6px;
+}
